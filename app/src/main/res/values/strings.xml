@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SPORT WALLPAPER</string>
+    <string-array name="download_links">
+        <item>https://images.wallpaperscraft.ru/image/skalolaz_ekstrim_siluet_podm_skaly_trudnosti_zakat_79975_1080x1920.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/lionel_messi_barselona_futbolist_104410_1080x1920.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/bmw_m4_dtm_2014_94235_1080x1920.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/chicago_bulls_chikago_bullz_nba_basketbol_94215_1080x1920.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/basketbol_koltso_myach_brosok_115025_1080x1920.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/lyzhi_lyzhnik_pryzhok_gory_sneg_108350_1080x1920.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/lyzhnik_sneg_zima_derevya_118571_1080x1920.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/skeyt_doska_sportsmen_perila_dvizhenie_siluet_katok_79978_1080x1920.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/ganteli_sport_sportzal_106546_1080x1920.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/sportivnyj_audi_seryj_fon_velosiped_94380_1080x1920.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/maykl_dzhordan_michael_jordan_chicago_bulls_nomer_imya_nba_basketbol_doski_79969_1080x1920.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/lionel_messi_futbolist_fc_barcelona_112115_1080x1920.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/mototsikl_motokross_sport_105544_1080x1920.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/lyzhi_oborudovanie_botinki_108326_1080x1920.jpg</item>
+    </string-array>
+</resources>
