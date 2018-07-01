@@ -1,4 +1,4 @@
-package com.sportfirendly.keyseed.sportwallpaper
+package com.autorelling.daringwang.autowallpapers
 
 import android.app.WallpaperManager
 import android.content.Context
@@ -17,7 +17,6 @@ import android.widget.Button
 import android.widget.ImageView
 import android.widget.Toast
 import com.squareup.picasso.Picasso
-import kotlinx.android.synthetic.main.fragment_image.view.*
 import java.io.File
 
 /**
@@ -49,15 +48,11 @@ class ImageAdapter(var data:Array<String>): RecyclerView.Adapter<ImageAdapter.Im
             }
         }
 
-        holder.btnLive.setOnClickListener {
-            instalLifeWallpapers(holder.v.context)
-        }
     }
 
     class ImViewHolder(var v: View):RecyclerView.ViewHolder(v){
-        var btnSet: Button = v.btn_set
-        var imgContent: ImageView = v.fragment_img
-        var btnLive: Button = v.btn_install_live_photo
+        var btnSet: Button = v.findViewById(R.id.btn_set)
+        var imgContent: ImageView = v.findViewById(R.id.fragment_img)
     }
 
     fun instalLifeWallpapers(c: Context){

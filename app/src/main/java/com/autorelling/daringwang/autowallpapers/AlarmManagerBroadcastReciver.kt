@@ -1,4 +1,4 @@
-package com.sportfirendly.keyseed.sportwallpaper
+package com.autorelling.daringwang.autowallpapers
 
 import android.app.AlarmManager
 import android.app.Notification

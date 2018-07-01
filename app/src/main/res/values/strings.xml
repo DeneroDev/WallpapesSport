@@ -1,19 +1,18 @@
 <resources>
-    <string name="app_name">SPORT WALLPAPER</string>
+    <string name="app_name">Auto Wallpapers</string>
     <string-array name="download_links">
-        <item>https://images.wallpaperscraft.ru/image/skalolaz_ekstrim_siluet_podm_skaly_trudnosti_zakat_79975_1080x1920.jpg</item>
-        <item>https://images.wallpaperscraft.ru/image/lionel_messi_barselona_futbolist_104410_1080x1920.jpg</item>
-        <item>https://images.wallpaperscraft.ru/image/bmw_m4_dtm_2014_94235_1080x1920.jpg</item>
-        <item>https://images.wallpaperscraft.ru/image/chicago_bulls_chikago_bullz_nba_basketbol_94215_1080x1920.jpg</item>
-        <item>https://images.wallpaperscraft.ru/image/basketbol_koltso_myach_brosok_115025_1080x1920.jpg</item>
-        <item>https://images.wallpaperscraft.ru/image/lyzhi_lyzhnik_pryzhok_gory_sneg_108350_1080x1920.jpg</item>
-        <item>https://images.wallpaperscraft.ru/image/lyzhnik_sneg_zima_derevya_118571_1080x1920.jpg</item>
-        <item>https://images.wallpaperscraft.ru/image/skeyt_doska_sportsmen_perila_dvizhenie_siluet_katok_79978_1080x1920.jpg</item>
-        <item>https://images.wallpaperscraft.ru/image/ganteli_sport_sportzal_106546_1080x1920.jpg</item>
-        <item>https://images.wallpaperscraft.ru/image/sportivnyj_audi_seryj_fon_velosiped_94380_1080x1920.jpg</item>
-        <item>https://images.wallpaperscraft.ru/image/maykl_dzhordan_michael_jordan_chicago_bulls_nomer_imya_nba_basketbol_doski_79969_1080x1920.jpg</item>
-        <item>https://images.wallpaperscraft.ru/image/lionel_messi_futbolist_fc_barcelona_112115_1080x1920.jpg</item>
-        <item>https://images.wallpaperscraft.ru/image/mototsikl_motokross_sport_105544_1080x1920.jpg</item>
-        <item>https://images.wallpaperscraft.ru/image/lyzhi_oborudovanie_botinki_108326_1080x1920.jpg</item>
+        <item>http://genchi.info/image/lamborghini-wallpaper-iphone-6-21.jpg</item>
+        <item>http://wallpaperget.com/images/iphone-hd-wallpapers-37.jpg</item>
+        <item>https://www.pixelstalk.net/wp-content/uploads/2016/11/Ferrari-iPhone-Wallpapers-Free-Download.jpg</item>
+        <item>http://www.wallpaperdx.com/images/karma-car-full-hd-android.jpg</item>
+        <item>http://www.wallpapersforiphone5.com/assets/uploads/gallery_image/Cars/Wallpapers-For-iPhone-5-Cars-6715.jpg</item>
+        <item>https://newevolutiondesigns.com/images/freebies/car-iphone-wallpaper-1.jpg</item>
+        <item>https://hdgallery.ru/wp-content/uploads/2017/03/xQ_H_D_0021503_4.jpg.pagespeed.ic.-5SPdExWc2.jpg</item>
+        <item>https://i.pinimg.com/736x/af/13/be/af13bea65a8e4db1a5d6ebfcff089348--wallpapers-ipad-iphone-backgrounds.jpg</item>
+        <item>https://wall3.androidappsapk.co/dl/6/c/d/jaguar-c-x16-black-red-rims.jpg</item>
+        <item>http://r1.ilikewallpaper.net/iphone-8-wallpapers/download/25855/Lamborghini-In-Night-iphone-8-wallpaper-ilikewallpaper_com.jpg</item>
+        <item>http://mobilepics.ru/uploads/iphone/autotech/big_images/10550537.jpg</item>
+        <item>https://pxpage.com/media/images/ori/2017/03/04/maserati-white-mobile-wallpaper-3032281488609005.jpg</item>
+        <item>https://cdn.wallpapersafari.com/85/36/kj7YzA.jpg</item>
     </string-array>
 </resources>
